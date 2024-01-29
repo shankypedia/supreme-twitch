@@ -23,7 +23,7 @@ class Pushover(object):
                     "user": self.userkey,
                     "token": self.token,
                     "message": dedent(message),
-                    "title": "Twitch Channel Points Miner",
+                    "title": "flaseofficial - Twitch Channel Points Miner",
                     "priority": self.priority,
                     "sound": self.sound,
                 },

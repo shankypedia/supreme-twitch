@@ -1,6 +1,6 @@
 29/01/24 14:26:29 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): raw.githubusercontent.com:443
 29/01/24 14:26:30 - DEBUG - urllib3.connectionpool - [_make_request]: https://raw.githubusercontent.com:443 "GET /rdavydov/Twitch-Channel-Points-Miner-v2/master/TwitchChannelPointsMiner/__init__.py HTTP/1.1" 200 125
-29/01/24 14:26:30 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: Twitch Channel Points Miner v2-1.9.1 (fork by rdavydov)
+29/01/24 14:26:30 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: flaseofficial - Twitch Channel Points Miner v2-1.9.1 (fork by rdavydov)
 29/01/24 14:26:30 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2
 29/01/24 14:26:30 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: You are running version 1.9.1 of this script
 29/01/24 14:26:30 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__init__]: The latest version on GitHub is 1.9.3
